@@ -51,7 +51,7 @@
                     </li>
                 </ul>
                 <ul class="navbar-nav brand">
-                    <img src="template/imgs/avatar.jpg" alt="" class="brand-img">
+                    <img src="/template/imgs/avatar.jpg" alt="" class="brand-img">
                     <li class="brand-txt">
                         <h5 class="brand-title">Sandra Saenz</h5>
                         <div class="brand-subtitle">Desarrolladora Backend Junior</div>

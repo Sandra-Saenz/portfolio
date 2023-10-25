@@ -7,7 +7,15 @@
                 <h3 class="font-weight-light">¿Quién soy?</h3>
                 <span class="line mb-5"></span>
                 <h5 class="mb-3">Soy una Desarrolladora Backend</h5>
-                <p class="mt-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit.sit amet, Qui deserunt consequatur fugit repellendusillo voluptas?</p>
+                <p class="mt-20">
+                    Tengo experiencia en desarrollo de páginas y aplicaciones web en el lenguaje PHP con el framework LARAVEL. 
+                    Además de trabajar con bases de datos como MySQL, MariaDB, SQL server y ORACLE. Así como un manejo adecuado 
+                    de HTML, CSS y JavaScript para crear las interfaces de usuario. También tengo conocimiento de la metodología SCRUM, 
+                    GIT, GITHUB, TDD, principios SOLID, patrones de diseño. <br>
+                    Soy una persona cumplidora con las labores que me asignan, con gran capacidad para el diagnóstico y la resolución 
+                    de conflictos. Me considero responsable, honesta, con gran motivación y ganas de crecer profesionalmente. Se me 
+                    facilita mucho aprender y sin importarme las circunstancias hago las cosas con gran entusiasmo.
+                </p>
                 <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i>Descarga Mi CV</button>
             </div>
             <div class="col-lg-4 about-card">
@@ -66,7 +74,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="card">
-                       <div class="card-header">
+                        <div class="card-header">
                             <div class="mt-2">
                                 <h4>Experiencia</h4>
                                 <span class="line"></span>  
@@ -89,65 +97,80 @@
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="card">
-                       <div class="card-header">
+                        <div class="card-header">
                             <div class="mt-2">
                                 <h4>Educación</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
                         <div class="card-body">
-                            <h6 class="title text-danger">2017 - Presente</h6>
-                            <P>B.E Computer Engineering</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error corrupti recusandae obcaecati odit repellat ducimus cum, minus tempora aperiam at.</P>
+                            <h6 class="title text-danger">2015 - 2023</h6>
+                            <P class="subtitle">Ingeniería de sistemas</P>
+                            <P>UNIVERSIDAD POPULAR DEL CESAR<br>Valledupar – Cesar</P>
                             <hr>
-                            <h6 class="title text-danger">2016 - 2017</h6>
-                            <P>Diploma in Computer Engineering</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, id officiis quas placeat quia voluptas dolorum rem animi nostrum quae.aliquid repudiandae saepe!.</P>
+                            <h6 class="title text-danger">2013 - 2014</h6>
+                            <P class="subtitle">Técnico en sistemas</P>
+                            <P>SERVICIO NACIONAL DE APRENDIZAJE (SENA)<br>Valledupar – Cesar</P>
                             <hr>
-                            <h6 class="title text-danger">2015 - 2016</h6>
-                            <P>High School Degree</P>
-                            <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
-                            
+                            <h6 class="title text-danger">2009 - 2014</h6>
+                            <P class="subtitle">Bachiller Técnico Industrial</P>
+                            <P>INSTITUTO TÉCNICO INDUSTRIAL PEDRO CASTRO MONSALVO<br>Valledupar – Cesar</P>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="card">
-                       <div class="card-header">
+                        <div class="card-header">
                             <div class="pull-left">
                                 <h4 class="mt-2">Skills</h4>
                                 <span class="line"></span>  
                             </div>
                         </div>
                         <div class="card-body pb-2">
-                           <h6>hTL5 &amp; CSS3</h6>
+                            <h6>PHP &amp; LARAVEL</h6>
                             <div class="progress mb-3">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 97%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>JavaScript</h6>
+                            <h6>MySQL</h6>
                             <div class="progress mb-3">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 85%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>PHP</h6>
+                            <h6>Metodología SCRUM</h6>
                             <div class="progress mb-3">
                                 <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>SQL</h6>
+                            <h6>GIT &amp; GITHUB</h6>
                             <div class="progress mb-3">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>Laborum</h6>
+                            <h6>HTML &amp; CSS</h6>
                             <div class="progress mb-3">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 70%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
-                            <h6>Tempora</h6>
+                            <h6>JavaScript</h6>
                             <div class="progress mb-3">
-                                <div class="progress-bar bg-danger" role="progressbar" style="width: 90%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 50%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Trabajo en equipo</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Adaptable</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Comunicación asertiva</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 80%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                            <h6>Responsable</h6>
+                            <div class="progress mb-3">
+                                <div class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
                     </div>
                     <div class="card">
-                       <div class="card-header">
+                        <div class="card-header">
                             <div class="pull-left">
                                 <h4 class="mt-2">Lenguajes</h4>
                                 <span class="line"></span>  
@@ -227,7 +250,7 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="card mb-5">
-                       <div class="card-header has-icon">
+                        <div class="card-header has-icon">
                             <i class="ti-vector text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
@@ -238,7 +261,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6">
                     <div class="card mb-5">
-                       <div class="card-header has-icon">
+                        <div class="card-header has-icon">
                             <i class="ti-write text-danger" aria-hidden="true"></i>
                         </div>
                         <div class="card-body px-4 py-3">
